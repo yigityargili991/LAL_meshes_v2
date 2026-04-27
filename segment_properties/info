@@ -10,8 +10,8 @@
         "id": "label",
         "type": "label",
         "values": [
-          "LAL_right",
-          "LAL_left"
+          "LAL_left",
+          "LAL_right"
         ]
       }
     ]
